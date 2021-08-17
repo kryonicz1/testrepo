@@ -1,3 +1,2 @@
 # testrepo
-this is how im learning how to use github and remote repos!
-secondary test
+sub2 branch of repo for further github experimentation

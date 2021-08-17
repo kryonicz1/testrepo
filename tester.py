@@ -1,6 +1,6 @@
-import sys
-print(sys.version)
-noggin = "12321"
-print(noggin)
-
-#yourenice
+def func(x):
+    if x < 0:
+        print("owo?")
+    else:
+        pass
+ 
